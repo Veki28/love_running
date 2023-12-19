@@ -1,7 +1,7 @@
 /*google font imports*/
 
-<style>@import url('https://fonts.googleapis.com/css2?family:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
-</style>
+@import url('https://fonts.googleapis.com/css2?family:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
 /* wildcard selector|overrides default styles by browser */
 
 * {
